@@ -86,3 +86,6 @@ def minar():
     if not blockchain.pending_transactions:
         return 'No hay transacciones pendientes para minar', 400
 
+
+    
+    
